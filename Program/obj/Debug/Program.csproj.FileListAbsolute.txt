@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\bin\Debug\Program.exe.config
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\bin\Debug\Program.exe
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\bin\Debug\Program.pdb
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\bin\Debug\MemoryGameUserInterface.dll
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\bin\Debug\MemoryGameLogic.dll
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\bin\Debug\MemoryGameUserInterface.pdb
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\bin\Debug\MemoryGameUserInterface.dll.config
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\bin\Debug\MemoryGameLogic.pdb
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\bin\Debug\MemoryGameLogic.dll.config
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\obj\Debug\Program.csproj.Up2Date
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\obj\Debug\Program.exe
+\\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\obj\Debug\Program.pdb
