@@ -5,3 +5,10 @@
 \\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\MemoryGameLogic\bin\Debug\MemoryGameLogic.pdb
 \\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\MemoryGameLogic\obj\Debug\MemoryGameLogic.dll
 \\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\MemoryGameLogic\obj\Debug\MemoryGameLogic.pdb
+C:\Users\lahavrabinovitz\source\repos\lahav97\B24-Ex02-Lahav-And-Smadar-\MemoryGameLogic\bin\Debug\MemoryGameLogic.dll.config
+C:\Users\lahavrabinovitz\source\repos\lahav97\B24-Ex02-Lahav-And-Smadar-\MemoryGameLogic\bin\Debug\MemoryGameLogic.dll
+C:\Users\lahavrabinovitz\source\repos\lahav97\B24-Ex02-Lahav-And-Smadar-\MemoryGameLogic\bin\Debug\MemoryGameLogic.pdb
+C:\Users\lahavrabinovitz\source\repos\lahav97\B24-Ex02-Lahav-And-Smadar-\MemoryGameLogic\obj\Debug\MemoryGameLogic.csproj.AssemblyReference.cache
+C:\Users\lahavrabinovitz\source\repos\lahav97\B24-Ex02-Lahav-And-Smadar-\MemoryGameLogic\obj\Debug\MemoryGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\lahavrabinovitz\source\repos\lahav97\B24-Ex02-Lahav-And-Smadar-\MemoryGameLogic\obj\Debug\MemoryGameLogic.dll
+C:\Users\lahavrabinovitz\source\repos\lahav97\B24-Ex02-Lahav-And-Smadar-\MemoryGameLogic\obj\Debug\MemoryGameLogic.pdb

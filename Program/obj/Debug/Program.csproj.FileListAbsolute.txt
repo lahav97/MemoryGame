@@ -12,3 +12,17 @@
 \\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\obj\Debug\Program.csproj.Up2Date
 \\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\obj\Debug\Program.exe
 \\Mac\Home\Desktop\C# Projects\B24 Ex02 Lahav 209028349 Smadar 313514911\Program\obj\Debug\Program.pdb
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\bin\Debug\Program.exe.config
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\bin\Debug\Program.exe
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\bin\Debug\Program.pdb
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\bin\Debug\MemoryGameUserInterface.dll
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\bin\Debug\MemoryGameLogic.dll
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\bin\Debug\MemoryGameUserInterface.pdb
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\bin\Debug\MemoryGameUserInterface.dll.config
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\bin\Debug\MemoryGameLogic.pdb
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\bin\Debug\MemoryGameLogic.dll.config
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\obj\Debug\Program.csproj.Up2Date
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\obj\Debug\Program.exe
+C:\Users\lahavrabinovitz\Source\Repos\lahav97\B24-Ex02-Lahav-And-Smadar-\Program\obj\Debug\Program.pdb
